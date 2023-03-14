@@ -1,8 +1,9 @@
 # Hi there 👋
 
 Hi, I’m [Giulio](https://www.giuliostarace.com), welcome to my GitHub profile. I
-use GitHub for a lot of things, hopefully this blurb will help you find what
-you're looking for. I've highlighted my favourite in bold.
+use GitHub for a lot of things, and I tend to not delete things, so that I can
+look back and reminisce. Hopefully this blurb will help you find what you're
+looking for. I've highlighted my favourites in bold.
 
 ## 🤖 AI-related Projects
 
