@@ -3,13 +3,14 @@
 Hi, I’m [Giulio](https://www.giuliostarace.com), welcome to my GitHub profile. I
 use GitHub for a variety of things, and I tend to keep my old work around as a
 way to look back and reminisce. Hopefully this little blurb helps you find what
-you're after. If you're just browsing, I've marked my favorite stuff in bold.
+you're after. If you're just browsing, I've marked my favorite stuff with a ★.
 
 ## 🤖 AI-related Projects
 
-- [**GPTrue or False**](https://github.com/thesofakillers/GPTrue-or-False): 📝🔍
+- ★ [GPTrue or False](https://github.com/thesofakillers/GPTrue-or-False): 📝🔍
   A browser extension that displays the GPT-2 Log Probability of selected text
-- [infersent-replication](https://github.com/thesofakillers/infersent-replication):
+- ★
+  [infersent-replication](https://github.com/thesofakillers/infersent-replication):
   Partial replication of Conneau et al. (2017)
 - [iclingo](https://github.com/thesofakillers/iclingo): 🔴🟢🔵 clingo kernel for
   Jupyter
@@ -25,9 +26,9 @@ you're after. If you're just browsing, I've marked my favorite stuff in bold.
 - [badder-seeds](https://github.com/thesofakillers/badder-seeds): Official
   repository for the paper "[Re] Badder Seeds: Reproducing the Evaluation of
   Lexical Methods for Bias Measurement". ReScience C: 8 pp. #40 (2).
-- [**bert-infoshare**](https://github.com/thesofakillers/bert-infoshare):
+- ★ [bert-infoshare](https://github.com/thesofakillers/bert-infoshare):
   Studying information-sharing in encoder-only transformers. (WIP)
-- [**CLAfICLe**](https://github.com/thesofakillers/CLAfICLe): Official
+- ★ [CLAfICLe](https://github.com/thesofakillers/CLAfICLe): Official
   repository for the paper "CLAfICLe: Cross-Lingual Adaptation for In-Context
   Learning". Not published.
 - [ponder-bayes](https://github.com/thesofakillers/ponder-bayes): Official
@@ -58,7 +59,7 @@ you're after. If you're just browsing, I've marked my favorite stuff in bold.
   Information Retrieval 1
 - [krr-labs](https://github.com/thesofakillers/krr-labs): Assignments for KRR
   course
-- [**dl1-labs**](https://github.com/thesofakillers/dl1-labs): Code for the Deep
+- ★ [dl1-labs](https://github.com/thesofakillers/dl1-labs): Code for the Deep
   Learning 1 course assignments, Fall 2021 edition
 - [ltm](https://github.com/thesofakillers/ltm): 🧠 Using Biologically Plausible
   Long-Term Memory to Address Catastrophic Forgetting in AI
@@ -72,7 +73,7 @@ you're after. If you're just browsing, I've marked my favorite stuff in bold.
   my solutions to some exercises I did for a class I took at University.
 - [LearnPrologNow](https://github.com/thesofakillers/LearnPrologNow): solutions
   to some of the exercises and practicals outlined in the book Learn Prolog Now!
-- [Classifying CIFAR100 and Generating Pegasus with CIFAR10 ](https://github.com/thesofakillers/ML_Classifier-Pegasus-Generator):
+- [ML_Classifier-Pegasus-Generator](https://github.com/thesofakillers/ML_Classifier-Pegasus-Generator):
   Classifying CIFAR100 and Generating Pegasus with CIFAR10 using GANs
 - [Distributed-File-Server](https://github.com/thesofakillers/Distributed-File-Server):
   implementation of a distributed file server system written in Python
