@@ -12,6 +12,7 @@ you're after. If you're just browsing, I've marked my favorite stuff with a ★.
 - ★
   [infersent-replication](https://github.com/thesofakillers/infersent-replication):
   Partial replication of Conneau et al. (2017)
+- [dlml-tutorial](https://github.com/thesofakillers/dlml-tutorial): 🤓 A tutorial on the Discretized Logistic Mixture Likelihood (DLML)
 - [iclingo](https://github.com/thesofakillers/iclingo): 🔴🟢🔵 clingo kernel for
   Jupyter
 - [nowcastlib](https://github.com/thesofakillers/nowcastlib): 🧙🔧 Utils that
