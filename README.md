@@ -27,8 +27,7 @@ you're after. If you're just browsing, I've marked my favorite stuff with a ★.
 - [badder-seeds](https://github.com/thesofakillers/badder-seeds): Official
   repository for the paper "[Re] Badder Seeds: Reproducing the Evaluation of
   Lexical Methods for Bias Measurement". ReScience C: 8 pp. #40 (2).
-- ★ [bert-infoshare](https://github.com/thesofakillers/bert-infoshare):
-  Studying information-sharing in encoder-only transformers. (WIP)
+- ★ [bert-infoshare](https://github.com/thesofakillers/bert-infoshare): 🔒 under review
 - ★ [CLAfICLe](https://github.com/thesofakillers/CLAfICLe): Official
   repository for the paper "CLAfICLe: Cross-Lingual Adaptation for In-Context
   Learning". Not published.
