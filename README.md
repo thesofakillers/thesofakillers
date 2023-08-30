@@ -5,8 +5,9 @@ use GitHub for a variety of things, and I tend to keep my old work around as a
 way to look back and reminisce. Hopefully this little blurb helps you find what
 you're after. If you're just browsing, I've marked my favorite stuff with a ★.
 
-## 🤖 AI-related Projects
-
+<details>
+<summary><h2>🤖 AI-related Projects</h2></summary>
+  
 - ★ [GPTrue or False](https://github.com/thesofakillers/GPTrue-or-False): 📝🔍
   A browser extension that displays the GPT-2 Log Probability of selected text
 - ★
@@ -21,8 +22,9 @@ you're after. If you're just browsing, I've marked my favorite stuff with a ★.
   cookiecutter template for ML projects with Poetry
 - [NN-Dimensionality](https://github.com/thesofakillers/NN-Dimensionality): Very
   quick and rough script to calculate the output dimensions of a given layer
-
-## 🔬 Research in AI
+</details>
+<details>
+  <summary><h2>🔬 Research in AI</h2></summary>
 
 - [badder-seeds](https://github.com/thesofakillers/badder-seeds): Official
   repository for the paper "[Re] Badder Seeds: Reproducing the Evaluation of
@@ -34,9 +36,11 @@ you're after. If you're just browsing, I've marked my favorite stuff with a ★.
 - [ponder-bayes](https://github.com/thesofakillers/ponder-bayes): Official
   repository for the paper "PonderBayes: Uncertainty-Informed Pondering". Not
   published.
+</details>
 
-## 🎯 Other Projects
-
+<details>
+  <summary><h2>🎯 Other Projects</h2></summary>
+  
 - [bLANS](https://github.com/thesofakillers/bLANS): 🖋 better LaTeX for ANS
 - [git-activity-exporter](https://github.com/thesofakillers/git-activity-exporter):
   🟩 Export commit activity (and nothing else) from a source repo to a new repo
@@ -48,8 +52,11 @@ you're after. If you're just browsing, I've marked my favorite stuff with a ★.
   Buffer Text Format syntax highlighting for VS Code (Archived).
 - [dedirectorizer](https://github.com/thesofakillers/dedirectorizer): Deep
   flattening of a directory
+</details>
 
-## 📚 Coursework/Academic
+
+<details>
+  <summary><h2>📚 Coursework/Academic</h2></summary>
 
 - [rl-labs](https://github.com/thesofakillers/rl-labs): Assignments for
   Reinforcement Learning 1
@@ -89,8 +96,10 @@ you're after. If you're just browsing, I've marked my favorite stuff with a ★.
   Processing.
 - [WebGL-Classroom](https://github.com/thesofakillers/WebGL-Classroom):
   Interactive WebGL classroom model. Computer Graphics.
+</details>
 
-## 😎 Personal
+<details>
+  <summary><h2>😎 Personal</h2></summary>
 
 - [dotfiles](https://github.com/thesofakillers/dotfiles): ⚙️ bash, vim, etc.
 - [headaches](https://github.com/thesofakillers/headaches): Various analysis of
@@ -98,3 +107,5 @@ you're after. If you're just browsing, I've marked my favorite stuff with a ★.
 - [cv](https://github.com/thesofakillers/cv): 📄 My CV
 - [knowledge-base](https://github.com/thesofakillers/knowledge-base): 🧠 My
   personal knowledge base.
+</details>
+
