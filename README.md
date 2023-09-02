@@ -26,13 +26,15 @@ you're after. If you're just browsing, I've marked my favorite stuff with a ★.
 <details>
   <summary><h2>🔬 Research in AI</h2></summary>
 
-- [badder-seeds](https://github.com/thesofakillers/badder-seeds): Official
-  repository for the paper "[Re] Badder Seeds: Reproducing the Evaluation of
-  Lexical Methods for Bias Measurement". ReScience C: 8 pp. #40 (2).
 - ★ [bert-infoshare](https://github.com/thesofakillers/bert-infoshare): 🔒 under review
+- ★ [nlgoals](https://github.com/thesofakillers/nlgoals): Official repository for my
+  MSc thesis: "Addressing Goal Misgeneralization with Natural Language Interfaces."
 - ★ [CLAfICLe](https://github.com/thesofakillers/CLAfICLe): Official
   repository for the paper "CLAfICLe: Cross-Lingual Adaptation for In-Context
   Learning". Not published.
+- [badder-seeds](https://github.com/thesofakillers/badder-seeds): Official
+  repository for the paper "[Re] Badder Seeds: Reproducing the Evaluation of
+  Lexical Methods for Bias Measurement". ReScience C: 8 pp. #40 (2).
 - [ponder-bayes](https://github.com/thesofakillers/ponder-bayes): Official
   repository for the paper "PonderBayes: Uncertainty-Informed Pondering". Not
   published.
