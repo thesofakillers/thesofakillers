@@ -3,7 +3,9 @@
 Hi, I’m [Giulio](https://www.giuliostarace.com), welcome to my GitHub profile. I
 use GitHub for a variety of things, and I tend to keep my old work around as a
 way to look back and reminisce. Hopefully this little blurb helps you find what
-you're after. If you're just browsing, I've marked my favorite stuff with a ★.
+you're after. If you're just browsing, I've marked my favorite stuff with a ★. 
+
+Psst! Click on the triangles to reveal more info for each section.
 
 <details>
 <summary><h2>🤖 AI-related Projects</h2></summary>
