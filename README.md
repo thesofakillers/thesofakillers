@@ -28,7 +28,7 @@ Psst! Click on the triangles to reveal more info for each section.
 <details>
   <summary><h2>🔬 Research in AI</h2></summary>
 
-- ★ [bert-infoshare](https://github.com/thesofakillers/bert-infoshare): 🔒 under review
+- ★ [infoshare](https://github.com/thesofakillers/bert-infoshare): Official repository for the paper: "Probing LLMs for Joint Encoding of Linguistic Categories." Findings of EMNLP 2023.
 - ★ [nlgoals](https://github.com/thesofakillers/nlgoals): Official repository for my
   MSc thesis: "Addressing Goal Misgeneralization with Natural Language Interfaces."
 - ★ [CLAfICLe](https://github.com/thesofakillers/CLAfICLe): Official
