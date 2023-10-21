@@ -5,10 +5,10 @@ use GitHub for a variety of things, and I tend to keep my old work around as a
 way to look back and reminisce. Hopefully this little blurb helps you find what
 you're after. If you're just browsing, I've marked my favorite stuff with a ★. 
 
-Psst! Click on the triangles to reveal more info for each section.
+Psst! Click on the titles to reveal more info for each section.
 
 <details>
-<summary><h2>🤖 AI-related Projects</h2></summary>
+<summary><b>🤖 AI-related Projects</b></summary>
   
 - ★ [GPTrue or False](https://github.com/thesofakillers/GPTrue-or-False): 📝🔍
   A browser extension that displays the GPT-2 Log Probability of selected text
@@ -26,7 +26,7 @@ Psst! Click on the triangles to reveal more info for each section.
   quick and rough script to calculate the output dimensions of a given layer
 </details>
 <details>
-  <summary><h2>🔬 Research in AI</h2></summary>
+  <summary><b>🔬 Research in AI</b></summary>
 
 - ★ [infoshare](https://github.com/thesofakillers/bert-infoshare): Official repository for the paper: "Probing LLMs for Joint Encoding of Linguistic Categories." Findings of EMNLP 2023.
 - ★ [nlgoals](https://github.com/thesofakillers/nlgoals): Official repository for my
@@ -43,7 +43,7 @@ Psst! Click on the triangles to reveal more info for each section.
 </details>
 
 <details>
-  <summary><h2>🎯 Other Projects</h2></summary>
+  <summary><b>🎯 Other Projects</b></summary>
   
 - [bLANS](https://github.com/thesofakillers/bLANS): 🖋 better LaTeX for ANS
 - [git-activity-exporter](https://github.com/thesofakillers/git-activity-exporter):
@@ -60,7 +60,7 @@ Psst! Click on the triangles to reveal more info for each section.
 
 
 <details>
-  <summary><h2>📚 Coursework/Academic</h2></summary>
+  <summary><b>📚 Coursework/Academic</b></summary>
 
 - [rl-labs](https://github.com/thesofakillers/rl-labs): Assignments for
   Reinforcement Learning 1
@@ -103,7 +103,7 @@ Psst! Click on the triangles to reveal more info for each section.
 </details>
 
 <details>
-  <summary><h2>😎 Personal</h2></summary>
+  <summary><b>😎 Personal</b></summary>
 
 - [dotfiles](https://github.com/thesofakillers/dotfiles): ⚙️ bash, vim, etc.
 - [headaches](https://github.com/thesofakillers/headaches): Various analysis of
