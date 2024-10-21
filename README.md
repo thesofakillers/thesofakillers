@@ -3,7 +3,7 @@
 Hi, I’m [Giulio](https://www.giuliostarace.com), welcome to my GitHub profile. I
 use GitHub for a variety of things, and I tend to keep my old work around as a
 way to look back and reminisce. Hopefully this little blurb helps you find what
-you're after. If you're just browsing, I've marked my favorite stuff with a ★. 
+you're after. If you're just browsing, I've marked my favorite stuff with a ★.
 
 Psst! Click on the titles to reveal more info for each section.
 
@@ -28,18 +28,21 @@ Psst! Click on the titles to reveal more info for each section.
 <details>
   <summary><b>🔬 Research in AI</b></summary>
 
-- ★ [infoshare](https://github.com/thesofakillers/bert-infoshare): Official repository for the paper: "Probing LLMs for Joint Encoding of Linguistic Categories." Findings of EMNLP 2023.
-- ★ [nlgoals](https://github.com/thesofakillers/nlgoals): Official repository for my
-  MSc thesis: "Addressing Goal Misgeneralization with Natural Language Interfaces."
-- ★ [CLAfICLe](https://github.com/thesofakillers/CLAfICLe): Official
-  repository for the paper "CLAfICLe: Cross-Lingual Adaptation for In-Context
-  Learning". Not published.
+- ★ [infoshare](https://github.com/thesofakillers/bert-infoshare): Official
+  repository for the paper: "Probing LLMs for Joint Encoding of Linguistic
+  Categories." Findings of EMNLP 2023.
+- ★ [nlgoals](https://github.com/thesofakillers/nlgoals): Official repository
+  for my MSc thesis: "Addressing Goal Misgeneralization with Natural Language
+  Interfaces."
+- ★ [CLAfICLe](https://github.com/thesofakillers/CLAfICLe): Official repository
+  for the paper "CLAfICLe: Cross-Lingual Adaptation for In-Context Learning".
+  Not published.
 - [badder-seeds](https://github.com/thesofakillers/badder-seeds): Official
   repository for the paper "[Re] Badder Seeds: Reproducing the Evaluation of
   Lexical Methods for Bias Measurement". ReScience C: 8 pp. #40 (2).
 - [ponder-bayes](https://github.com/thesofakillers/ponder-bayes): Official
-  repository for the paper "PonderBayes: Uncertainty-Informed Pondering". Not
-  published.
+repository for the paper "PonderBayes: Uncertainty-Informed Pondering". Not
+published.
 </details>
 
 <details>
@@ -57,7 +60,6 @@ Psst! Click on the titles to reveal more info for each section.
 - [dedirectorizer](https://github.com/thesofakillers/dedirectorizer): Deep
   flattening of a directory
 </details>
-
 
 <details>
   <summary><b>📚 Coursework/Academic</b></summary>
@@ -99,7 +101,7 @@ Psst! Click on the titles to reveal more info for each section.
   Python implementation of erosion, dilation, opening and closing in Image
   Processing.
 - [WebGL-Classroom](https://github.com/thesofakillers/WebGL-Classroom):
-  Interactive WebGL classroom model. Computer Graphics.
+Interactive WebGL classroom model. Computer Graphics.
 </details>
 
 <details>
@@ -110,6 +112,5 @@ Psst! Click on the titles to reveal more info for each section.
   my headaches
 - [cv](https://github.com/thesofakillers/cv): 📄 My CV
 - [knowledge-base](https://github.com/thesofakillers/knowledge-base): 🧠 My
-  personal knowledge base.
+personal knowledge base.
 </details>
-
